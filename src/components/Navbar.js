@@ -36,9 +36,10 @@ function Navbar() {
           >
             
             <i class="img">
-              <img src={logo} width="80" height="60" alt="philippinelogo"></img>
+              <img src={logo} width="70" height="50" alt="philippinelogo"></img>
             </i>
-            <span>Philippine Language School of Victoria</span>
+            <span>Philippine Language </span>
+            <span>&nbsp;School of Victoria</span>
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
