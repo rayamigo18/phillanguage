@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <div className="hero-container">
   
-      <p>Learn to speak, read and write in Filipino language</p>
+      <h1>Learn to speak, read and write in Filipino language</h1>
       
     </div>
   );
