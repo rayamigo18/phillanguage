@@ -206,6 +206,7 @@
 
 .website-rights {
   color: #fff;
+  justify-content: space-between;
   
 }
 
@@ -238,4 +239,5 @@
 .fa-youtube:before,
 .fa-twitter:before {
   color: #fff;
+  margin-left: 20px;
 }
