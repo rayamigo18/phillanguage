@@ -43,5 +43,55 @@ export const photos = [
     src: "/images/phil9.jpg",
     width: 4,
     height: 3
+  },
+  {
+    src: "/images/filo1.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo2.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo3.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo4.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo5.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo6.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo7.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo8.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo9.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "/images/filo10.jpg",
+    width: 4,
+    height: 3
   }
 ];

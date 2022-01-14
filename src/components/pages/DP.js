@@ -19,8 +19,8 @@ export default function DP() {
         </ul>
         <h2>Classroom Rules</h2>
         <ul>
-              <li>1.  Classroom Rules</li>
-              <li>2.  Classroom Rules</li>
+              <li>1.  Respect one another</li>
+              <li>2.  Behave safely in the classroom</li>
               <li>3.	Speak one at a time</li>
               <li>4.	Be punctual to class</li>
               <li>5.	Be attentive, work cooperatively, and respect the opinion of other students</li>

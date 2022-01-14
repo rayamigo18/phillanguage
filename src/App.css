@@ -55,7 +55,8 @@ body {
 .criteria-container,
 .photogallery-container,
 .aboutus-container,
-.enrolment-container
+.enrolment-container,
+.profile-container
  {
   background-image: url("/images/background10.jpg");
   padding-top: 100px;
@@ -156,6 +157,13 @@ body {
   font-size: 12px;
 }
 
+.profileimg {
+ padding: 15%;
+  align-items: center;
+  
+ 
+}
+
 textarea,
 input {
   display: block;
@@ -202,4 +210,8 @@ input[type="submit"],
 .g-recaptcha {
   display: inline-block;
   margin-top: 20px;
+}
+
+.tab { 
+  margin-left: 40px; 
 }

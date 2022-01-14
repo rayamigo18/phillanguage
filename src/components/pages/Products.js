@@ -19,19 +19,19 @@ function Products(props) {
               src="images/perla1.jpg"
               text="Director and Founder of the Philippine Language of Victoria"
               label="Perla Leutic"
-              path="/products"
+              path="/perla"
             />
             <CardItem
-              src="images/maria4.jpg"
-              text="Assistant Director and VCE Teacher"
+              src="images/maria.jpg"
+              text="Assistant Director, VCE Teacher and VASS Administrator"
               label="Maria Violeta Binuya"
-              path="/products"
+              path="/maria"
             />
             <CardItem
               src="images/julie.jpg"
-              text="Teacher"
-              label="Julie Uy"
-              path="/products"
+              text="Teacher and Public Relation Officer"
+              label="Julieta Uy"
+              path="/julieta"
             />
             
           </ul>
@@ -40,19 +40,19 @@ function Products(props) {
               src="images/catherine.jpg"
               text="Teacher and Child Safety Officer"
               label="Catherine Yap"
-              path="/products"
+              path="/catherine"
             />
             <CardItem
               src="images/roel.jpg"
               text="Teacher and in charge of Arts and Culture"
               label="Roel Paje"
-              path="/products"
+              path="/roel"
             />
             <CardItem
               src="images/rosanna.jpg"
               text="Teacher and Assistant Child Safety Officer"
               label="Rosanna Balod"
-              path="/products"
+              path="/rosanna"
             />
           </ul>
         </div>
