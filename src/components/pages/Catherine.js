@@ -14,6 +14,7 @@ function Catherine() {
               </div>
             </div>
             <div class="column">
+            <div class="aboutus-offer">
               <br></br>
               <br></br>
               <br></br>
@@ -39,9 +40,7 @@ function Catherine() {
               Monash University, Clayton Campus<br></br>
               Major: Genetics and Human Pathology<br></br>
               </row>
-              
-              
-
+            </div>  
             </div>
           </div>
         </div>
