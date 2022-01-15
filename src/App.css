@@ -55,8 +55,7 @@ body {
 .criteria-container,
 .photogallery-container,
 .aboutus-container,
-.enrolment-container,
-.profile-container
+.enrolment-container
  {
   background-image: url("/images/background10.jpg");
   padding-top: 100px;
