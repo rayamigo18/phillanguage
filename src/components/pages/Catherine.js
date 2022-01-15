@@ -14,10 +14,7 @@ function Catherine() {
             </div>
             <div class="column">
             <div class="aboutus-offer">
-              <br></br>
-              <br></br>
-              <br></br>
-              <strong>2016: Certificate IV in Community Languages Teaching</strong><br></br>
+              <p><strong>2016: Certificate IV in Community Languages Teaching</strong><br></br>
               Community Languages Victoria<br></br>
               (Australian Federation of Ethnic Schools Associations)<br></br>
               Co AS IT (Italian Centre), Carlton
@@ -37,6 +34,7 @@ function Catherine() {
               <strong>2010: Bachelor of Science</strong><br></br>
               Monash University, Clayton Campus<br></br>
               Major: Genetics and Human Pathology<br></br>
+              </p>
             </div>  
           </div>
         </div>

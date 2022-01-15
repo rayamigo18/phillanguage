@@ -3,10 +3,9 @@ import "../../App.css";
 
 function Julieta() {
   return (
-    <div className="profile-container">
-      <h1 className="profile">Julieta Lambanao</h1>
-      <div className="profile-info">
-        <div class="aboutus-info">
+    <div className="aboutus-container">
+      <h1 className="about-us">Julieta Lambanao</h1>
+          <div class="aboutus-info">
           <div class="row">
             <div class="column">
               <div class="profileimg">
@@ -14,7 +13,8 @@ function Julieta() {
               </div>
             </div>
             <div class="column">
-              <strong>TERTIARY QUALIFICATION</strong>
+            <div class="aboutus-offer">
+              <p><strong>TERTIARY QUALIFICATION</strong></p>
               <p class="tab">
               <ul>
                 <li>Dr. of Public Administration- Graduated 1995 MLQU Philippines- with Dissertation in satellite

@@ -3,9 +3,8 @@ import "../../App.css";
 
 function Roel() {
   return (
-    <div className="profile-container">
-      <h1 className="profile">Roel Paje</h1>
-      <div className="profile-info">
+    <div className="aboutus-container">
+      <h1 className="about-us">Roel Paje</h1>
         <div class="aboutus-info">
           <div class="row">
             <div class="column">
@@ -14,6 +13,7 @@ function Roel() {
               </div>
             </div>
             <div class="column">
+            <div class="aboutus-offer">  
               <p>Married with 3 children; living in Australia since 2008. Working as
 Education Support at a government school for the past 11 years. I
 run a program: Hands on Learning catered towards the well being
@@ -35,8 +35,8 @@ goes to show that language (and culture) is inherent to anyone regardless of ski
 background.</p>
             </div>
           </div>
-        </div>
       </div>
+    </div>
     </div>
   );
 }

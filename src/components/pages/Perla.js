@@ -3,9 +3,8 @@ import "../../App.css";
 
 function Perla() {
   return (
-    <div className="profile-container">
-      <h1 className="profile">Perla Leutic</h1>
-      <div className="profile-info">
+    <div className="aboutus-container">
+      <h1 className="about-us">Perla Leutic</h1>
         <div class="aboutus-info">
           <div class="row">
             <div class="column">
@@ -14,13 +13,9 @@ function Perla() {
               </div>
             </div>
             <div class="column">
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
+              <div class="aboutus-offer">
+              <p>
+              <br></br><br></br>  
               <ul>
                 <li>Graduated Bachelor of Science in Community Development in Australia</li>
                 <li>Bachelor of Science in Elementary Education in Philippines</li>
@@ -29,6 +24,7 @@ function Perla() {
                 <li>President of Filipino Community Council of Victoria since 2013-2017 </li>
                 <li>President of LUZVIMINDA  1989-1995 </li>
               </ul>
+              </p>
             </div>
           </div>
         </div>

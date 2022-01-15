@@ -3,9 +3,8 @@ import "../../App.css";
 
 function Maria() {
   return (
-    <div className="profile-container">
-      <h1 className="profile">Maria Violeta Binuya</h1>
-      <div className="profile-info">
+    <div className="aboutus-container">
+      <h1 className="about-us">Maria Violeta Binuya</h1>
         <div class="aboutus-info">
           <div class="row">
             <div class="column">
@@ -14,14 +13,15 @@ function Maria() {
               </div>
             </div>
             <div class="column">
-              <row><strong>Master of Education</strong><br></br>
+            <div class="aboutus-offer">
+              <p><strong>Master of Education</strong><br></br>
               Course of Study: Assessment and Evaluation<br></br>
               Degree Confirmed: 6th May 1998<br></br>
-              Royal Melbourne Institute of Technology University</row>
-              <br></br>
-              <row><strong>Completed Academic Requirement for Doctor of Education</strong><br></br>
+              Royal Melbourne Institute of Technology University
+              <br></br></p>
+              <p><strong>Completed Academic Requirement for Doctor of Education</strong><br></br>
               Completed Academic Requirement for Doctor of Education
-              </row>
+              </p>
               <p>My proficiency in the Filipino language is excellent for being a native speaker, educated in the Philippines and as a teacher in Filipino language for many years. </p>
               <p>I have been a chief VCE oral assessor in Filipino language for 6 years. I have been a Filipino teacher for many years applying different approach of teaching in the Filipino language. 
               My qualifications are:  
