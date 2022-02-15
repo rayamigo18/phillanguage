@@ -21,10 +21,10 @@ attending the Saturday morning classes at Braybrook or Wodonga on a weekly basis
         <h2>We are VCE SINGLE PROVIDER approved by the Department of Education and Training</h2>
         <p>Cost:</p>
         <ul>
-              <li>&#8226; VCE FILIPINO UNIT 1 & 2  :  $ 350</li>
-              <li>&#8226; VCE FILIPINO UNIT 3 & 4  :  $ 350</li>
-              <li>&#8226; Primary Level Fees :  $ 300</li>
-              <li>&#8226; Adult Class:  $ 450 (30 sessions)</li> 
+              <li>&#8226; VCE FILIPINO UNIT 1 & 2  :  $ 300</li>
+              <li>&#8226; VCE FILIPINO UNIT 3 & 4  :  $ 300</li>
+              <li>&#8226; Primary Level Fees :  $ 200</li>
+              <li>&#8226; Adult Class:  $ 400 (30 sessions)</li> 
         </ul>
         <h2>Term Dates 2022</h2>
         <ul>

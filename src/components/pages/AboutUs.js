@@ -7,7 +7,9 @@ function AboutUs() {
       <h1 className="about-us">About Us</h1>
       <div className="aboutus-info">
         <p>
-        The Philippine Language School of Victoria was established and founded in 1993 by Perla Luetic, the president of LUZVIMINDA Association of Filipino Women in Victoria, Inc., to enable the Filipino children learn and understand the language and culture.
+        The Philippine Language School of Victoria was established and founded by Perla Leutic on 28 February 2016  and granted a Certificate of  Incorporation
+
+No. A0094860V to enable the Filipino children learn and understand the language and culture.
         </p>
         <p>The work began in 1994 in co-operation with the Filipino Community Council of Victoria and Ethnic School Association of Victoria, Inc.</p>
         <p>The School is designed for non-speakers of Filipino language, or persons of Filipino parents who are  Filipino-Australian born and who do not speak the language, children of mixed marriages, scholars, diplomats, business people and individuals who are interested to learn the language for better understanding of the Filipino cultural heritage, identity and tradition.</p>
