@@ -27,12 +27,6 @@ function Products(props) {
               label="Maria Violeta Binuya"
               path="/maria"
             />
-            <CardItem
-              src="images/julie.jpg"
-              text="Teacher and Public Relation Officer"
-              label="Julieta Uy"
-              path="/julieta"
-            />
             
           </ul>
           <ul className="cards__items">
@@ -41,12 +35,6 @@ function Products(props) {
               text="Teacher and Child Safety Officer"
               label="Catherine Yap"
               path="/catherine"
-            />
-            <CardItem
-              src="images/roel.jpg"
-              text="Teacher and in charge of Arts and Culture"
-              label="Roel Paje"
-              path="/roel"
             />
             <CardItem
               src="images/rosanna.jpg"
