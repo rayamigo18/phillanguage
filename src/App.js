@@ -12,7 +12,6 @@ import COP from "./components/pages/COP";
 import DP from "./components/pages/DP";
 import Criteria from "./components/pages/Criteria";
 import PhotoGallery from "./components/pages/PhotoGallery";
-import Roel from "./components/pages/Roel";
 import Catherine from "./components/pages/Catherine";
 import Rosanna from "./components/pages/Rosanna";
 import Perla from "./components/pages/Perla";
@@ -35,7 +34,6 @@ function App() {
           <Route path="/criteria" component={Criteria} />
           <Route path="/photogallery" component={PhotoGallery} />
           <Route path="/enrolment" component={Enrolment} />
-          <Route path="/roel" component={Roel} />
           <Route path="/catherine" component={Catherine} />
           <Route path="/rosanna" component={Rosanna} />
           <Route path="/perla" component={Perla} />
