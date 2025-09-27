@@ -52,13 +52,13 @@ function ContactUs() {
         </div>
         <div>
           <i class="fas fa-phone"></i>
-          <a href="tel:+61413623991"> 0413623991/0432271026</a>
+          <a href="tel:+61412836883"> 0412836883 </a>
         </div>
         <div>
           <i class="fas fa-envelope"></i>
-          <a href="mailto:phillang@bigpond.net.au">
+          <a href="mailto:phillangsov@gmail.com">
             {" "}
-            phillang@bigpond.net.au
+            phillangsov@gmail.com
           </a>
         </div>
       </div>

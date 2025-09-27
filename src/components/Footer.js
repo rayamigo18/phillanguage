@@ -14,7 +14,7 @@ function Footer() {
             <Link to="/about-us">About Us</Link>
             <Link to="/products">Staff Members</Link>
             <Link to="/photogallery">Photo Gallery</Link>
-            <a href="https://www.facebook.com/groups/philippinelanguage">Facebook</a>
+            <a href="https://www.facebook.com/PLSoV">Facebook</a>
             
           </div>
         </div>
