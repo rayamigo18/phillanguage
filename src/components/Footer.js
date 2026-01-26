@@ -41,7 +41,7 @@ function Footer() {
         <small class="website-rights">© 2022</small>
         <div class="social-icons">
           <div class="social-icon-link facebook" aria-label="Facebook">
-            <a href="https://www.facebook.com/groups/philippinelanguage"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.facebook.com/PLSoV"><i class="fab fa-facebook-f"></i></a>
           </div>
         </div>
       </div>

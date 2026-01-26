@@ -7,12 +7,13 @@ function Products(props) {
   return (
     <div className="cards">
       <h1>Staff Members</h1>
-      <p>We have years of teaching experience helping our students learn to speak, read and write in Filipino language. We offer Filipino Language from Beginners and Adults to VCE Level.
+      <p>The Philippine Language School of Victoria has many years of experience supporting students in developing their Filipino language skills in speaking, reading and 
+        writing. We offer Filipino language programs for beginners, adults and students undertaking VCE.</p>
+      <p>As a recognised VCE provider in Melbourne, Australia, we are proud of our strong record of achievement. Our students come from diverse ages and backgrounds, united 
+        by their interest in learning the Filipino language and culture. As a nonprofit organisation, we are committed tofostering unity within the Filipino Australian 
+        community and contributing to a vibrant multicultural society.
       </p>
-      <p>We are proud to be a recognised VCE provider school in Melbourne, Australia with excellent results. Our students of various ages and backgrounds, all interested in learning the Filipino language and culture. 
-        We are a non-profit organisation. We aim to foster unity among Filipino-Australian as a multi-cultural society.
-      </p>
-      <div className="cards__container">
+       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
