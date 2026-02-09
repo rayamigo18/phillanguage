@@ -1,18 +1,16 @@
 import React from "react";
 import "../../App.css";
-import ReactDOM from 'react-dom';
-import { PDFViewer} from '@react-pdf/renderer';
-import Example from "./Example";
-
+import Example from "./PLSV.pdf";
+import PdfViewer from "./components/PdfViewer";
 
 
 export default function Example() {
   return (
-    <div className="example">
-       <PDFViewer>
-            <Example />
-        </PDFViewer>
+    <div>
+        <h1 className="example">Sample PDF</h1>
+      <h1>React PDF Viewer</h1>
+      <PdfViewer fileUrl="/sample.pdf" /> 
+      {/* Place sample.pdf in public/ folder */}
     </div>
   );
 }
-ReactDOM.render(<App />, document.getElementById('root'));
