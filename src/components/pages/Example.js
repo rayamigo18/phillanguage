@@ -1,7 +1,7 @@
 import React from "react";
 import "../../App.css";
 import Example from "./PLSV.pdf";
-import PdfViewer from "./components/PdfViewer";
+import PdfViewer from "./PDFViewer";
 
 
 export default function Example() {
@@ -9,7 +9,7 @@ export default function Example() {
     <div>
         <h1 className="example">Sample PDF</h1>
       <h1>React PDF Viewer</h1>
-      <PdfViewer fileUrl="/sample.pdf" /> 
+      <PdfViewer fileUrl="/PLSV.pdf" /> 
       {/* Place sample.pdf in public/ folder */}
     </div>
   );
