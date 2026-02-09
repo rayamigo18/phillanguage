@@ -26,6 +26,7 @@ function Footer() {
             <Link to="/cop">Code of Practice</Link>
             <Link to="/dp">Discipline Policy</Link>
             <Link to="/criteria">Criteria on Assessing</Link>
+            <Link to="/example">PDF</Link>
           </div>
         </div>
       </div>
