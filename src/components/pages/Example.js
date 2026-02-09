@@ -1,7 +1,6 @@
 import React from "react";
 import "../../App.css";
-import Example from "./PLSV.pdf";
-import PdfViewer from "./components/PDFViewer";
+import PdfViewer from "../PDFViewer";
 
 
 export default function Example() {
