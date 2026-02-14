@@ -19,6 +19,7 @@ attending the Saturday morning classes at Braybrook.
               <li>&#8226; Primary to Year 10 :  $300</li>
               <li>&#8226; Adult Class:  $ 400 (35 sessions)</li> 
         </ul>
+        <p>Classes run during the school term on Saturdays from 9AM to 12PM</p>
         <h2>Venue</h2>
         <p>BRAYBROOK SECONDARY COLLEGE</p>
         <p>352 BALLARAT RD. BRAYBROOK (enter through Burke Street)</p>

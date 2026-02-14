@@ -9,26 +9,18 @@ function Footer() {
       <div class="footer-links">
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
-            <h2>About Us</h2>
+          
             <Link to="/">Home</Link>
             <Link to="/about-us">About Us</Link>
+            <Link to="/childsafety">Child Safety</Link>
+             <Link to="/enrolment">Enrolment</Link>
+             
             <Link to="/products">Staff Members</Link>
-            <Link to="/photogallery">Photo Gallery</Link>
-            <a href="https://www.facebook.com/PLSoV">Facebook</a>
+         
             
           </div>
         </div>
-        <div className="footer-link-wrapper">
-          <div class="footer-link-items">
-            <h2>Links</h2>
-            <Link to="/enrolment">Enrolment</Link>
-            <Link to="/terms">Code of Conduct</Link>
-            <Link to="/cop">Code of Practice</Link>
-            <Link to="/dp">Discipline Policy</Link>
-            <Link to="/criteria">Criteria on Assessing</Link>
-            <Link to="/example">PDF</Link>
-          </div>
-        </div>
+    
       </div>
       <div class="social-media">
         <div class="footer-logo">

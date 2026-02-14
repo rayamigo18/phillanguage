@@ -17,6 +17,8 @@ import Rosanna from "./components/pages/Rosanna";
 import Perla from "./components/pages/Perla";
 import Maria from "./components/pages/Maria";
 import Julieta from "./components/pages/Julieta";
+import PDFViewer from "./components/pages/Childsafety";
+import Childsafety from "./components/pages/Childsafety";
 
 function App() {
   return (
@@ -34,6 +36,7 @@ function App() {
           <Route path="/criteria" component={Criteria} />
           <Route path="/photogallery" component={PhotoGallery} />
           <Route path="/enrolment" component={Enrolment} />
+          <Route path="/childsafety" component={Childsafety} />
           <Route path="/catherine" component={Catherine} />
           <Route path="/rosanna" component={Rosanna} />
           <Route path="/perla" component={Perla} />
