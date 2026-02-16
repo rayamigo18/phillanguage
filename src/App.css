@@ -55,9 +55,11 @@ body {
 .criteria-container,
 .photogallery-container,
 .aboutus-container,
+.childsafety-container,
+.aboutus-container,
 .enrolment-container
  {
-  background-image: url("/images/background10.jpg");
+  background-image: url("./images/background10.jpg");
   padding-top: 100px;
   padding-bottom: 20px;
   background-position: center;

@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-  background: url('/images/phillanguage.jpg') center center/cover no-repeat; 
+  background: url('/public/images/phillanguage.jpg') center center/cover no-repeat; 
   height: 110vh;
   width: 100%;
   display: flex;
