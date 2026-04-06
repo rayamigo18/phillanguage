@@ -13,6 +13,7 @@ import DP from "./components/pages/DP";
 import Criteria from "./components/pages/Criteria";
 import PhotoGallery from "./components/pages/PhotoGallery";
 import Catherine from "./components/pages/Catherine";
+import Jere from "./components/pages/Jere";
 import Rosanna from "./components/pages/Rosanna";
 import Perla from "./components/pages/Perla";
 import Maria from "./components/pages/Maria";
@@ -37,6 +38,7 @@ function App() {
           <Route path="/enrolment" component={Enrolment} />
           <Route path="/childsafety" component={Childsafety} />
           <Route path="/catherine" component={Catherine} />
+          <Route path="/jere" component={Jere} />
           <Route path="/rosanna" component={Rosanna} />
           <Route path="/perla" component={Perla} />
           <Route path="/maria" component={Maria} />

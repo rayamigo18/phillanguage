@@ -38,8 +38,14 @@ function Products(props) {
               path="/catherine"
             />
             <CardItem
+              src="images/JerePineda.jpg"
+              text="Teacher"
+              label="Jere Pineda"
+              path="/jere"
+            />
+            <CardItem
               src="images/rosanna.jpg"
-              text="Teacher and Assistant Child Safety Officer"
+              text="Teacher"
               label="Rosanna Balod"
               path="/rosanna"
             />

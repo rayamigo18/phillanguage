@@ -9,23 +9,30 @@ function Childsafety() {
     
   const openPDF1 = () => {
      //Local PDF in public folder
-    const pdfUrl = "/ChildSafetyCode.pdf"; 
-    window.open(pdfUrl, "_blank", "noopener,noreferrer");
+  const pdfUrl = "/ChildSafetyCode.pdf"; 
+  window.open(pdfUrl, "_blank", "noopener,noreferrer");
      
   };
 
-    const openPDF2 = () => {
+  const openPDF2 = () => {
      //Local PDF in public folder
-    const pdfUrl = "/ChildSafetyPolicy.pdf"; 
-    window.open(pdfUrl, "_blank", "noopener,noreferrer");
+  const pdfUrl = "/ChildSafetyPolicy.pdf"; 
+  window.open(pdfUrl, "_blank", "noopener,noreferrer");
      
   };
 
   
-    const openPDF3 = () => {
+  const openPDF3 = () => {
      //Local PDF in public folder
-    const pdfUrl = "/CyberSafety.pdf"; 
-    window.open(pdfUrl, "_blank", "noopener,noreferrer");
+  const pdfUrl = "/CyberSafety.pdf"; 
+  window.open(pdfUrl, "_blank", "noopener,noreferrer");
+     
+  };
+
+  const openPDF4 = () => {
+     //Local PDF in public folder
+  const pdfUrl = "/VolunteerPolicy.pdf"; 
+  window.open(pdfUrl, "_blank", "noopener,noreferrer");
      
   };
 
@@ -37,6 +44,7 @@ function Childsafety() {
       <p><button onClick={openPDF1}>PLSV Child Safety Code of Conduct</button> </p>
       <p><button onClick={openPDF2}>PLSV Child Safety Policy &amp; Procedures</button> </p>
       <p><button onClick={openPDF3}>PLSV Cyber Safety Use Agreement</button></p>
+      <p><button onClick={openPDF4}>PLSV Volunteer Policy</button></p>
     </div>
     </div>
    
